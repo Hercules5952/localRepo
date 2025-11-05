@@ -1,1 +1,2 @@
-This is my loal repo
+This is my local repo
+
